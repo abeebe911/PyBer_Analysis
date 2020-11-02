@@ -7,7 +7,7 @@ Use your repository README file to write your analysis of how to address any dis
 My boss has given me and Omar a brand-new assignment. Using our Python skills and knowledge of Pandas, we created a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, we created a multiple-line graph that shows the total weekly fares for each city type.
 
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-![ride_share_dataframe.png](analysis/ride_share_dataframe.png)
+![ride_share_dataframe.png](Resources/ride_share_dataframe.png)
 
 We initially used the data available to create a new DataFrame with the data we wanted to visualize. 
 
