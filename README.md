@@ -21,7 +21,7 @@ We initially used the data from city_data and ride_data.csv to create a new Data
 
 Once we had this new DataFrame set up, we wanted to create a pivot table with the date as the index so we could get the total fares for each type of city by the date. Next, we created a new DataFrame so we only had the data from January 1st, 2019 through April 29th, 2019. This is the time frame we wanted to analyze. Lastly, we resampled this DataFrame to get the sum of the fares by week, which allowed our data to be visualized in the line graph below.
 
-![Pyber_fare_summary.png](analysis/Pyber_fare_summary.png)
+![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
