@@ -24,10 +24,10 @@ Once we had this new DataFrame set up, we wanted to create a pivot table with th
 ![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-
-## Summary:
-
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+Based on the results of our DataFrame and line graph, we can see the following trends:
+ 1. Total fares were by far the highest in Urban areas ($39,854.38) compared to Suburban ($19,356.33) and Rural ($4327.93) areas.
+ 2. While total fares were much higher in Urban areas, Average Fare per Driver was much lower. Urban drivers made $16.57 on average for every ride       they gave, while in Rural     areas, drivers made more than 3x as much ($55.49/ride). 
+ 3. As well as lower fares per driver, fares per ride are much different depending on the location of the trip. Rural rides are the most expensive, as they average $34.62/ride.       While Surburban ($30.97/ride) and Urban ($24.53/ride) areas were much cheaper. 
+ 
+ If I were to make a recommendation to the CEO, I would recommend raising prices in Urban areas, as there are 15x as many rides taken compared to Rural areas and there is greater demand in those areas for quick and accessible transportation.
   
