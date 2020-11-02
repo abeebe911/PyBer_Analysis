@@ -10,9 +10,9 @@ My boss has given me and Omar a brand-new assignment. Using our Python skills an
 
 This new assignment consists of two technical analysis deliverables and a written report to present my results. I will submit the following:
 
-Deliverable 1: A ride-sharing summary DataFrame by city type
-Deliverable 2: A multiple-line chart of total fares for each city type
-Deliverable 3: A written report for the PyBer analysis (README.md)
+  1. Deliverable 1: A ride-sharing summary DataFrame by city type
+  2. Deliverable 2: A multiple-line chart of total fares for each city type
+  3. Deliverable 3: A written report for the PyBer analysis (README.md)
 
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 ![ride_share_dataframe.png](Resources/ride_share_dataframe.png)
